@@ -2,5 +2,5 @@ projectKey=meformer-backend
 serverUrl=http://localhost:9000
 serverVersion=24.12.0.100206
 dashboardUrl=http://localhost:9000/dashboard?id=meformer-backend
-ceTaskId=3c06bced-cafa-49f8-aba7-1ad8f9c6586c
-ceTaskUrl=http://localhost:9000/api/ce/task?id=3c06bced-cafa-49f8-aba7-1ad8f9c6586c
+ceTaskId=c7d63dbe-1754-4aa9-88dc-5738cbab6bc9
+ceTaskUrl=http://localhost:9000/api/ce/task?id=c7d63dbe-1754-4aa9-88dc-5738cbab6bc9
