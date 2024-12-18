@@ -6,6 +6,8 @@ require('dotenv').config();
 const connectDB = require('./config/database');
 const authRoutes = require('./routes/auth');
 
+const jwtSecret = "your_jwt_secret_key"
+
 const app = express();
 
 // Connect to database
